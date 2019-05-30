@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_navigation_item_opened"
+        android:icon="@drawable/ic_note_add"
+        android:title="@string/opened" />
+
+    <item
+        android:id="@+id/bottom_navigation_item_finalized"
+        android:icon="@drawable/ic_note"
+        android:title="@string/finalized" />
+
+    <item
+        android:id="@+id/bottom_navigation_item_profile"
+        android:icon="@drawable/ic_person"
+        android:title="@string/profile" />
+
+</menu>

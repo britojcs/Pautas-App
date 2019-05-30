@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Pautas App</string>
+
+    <string name="name">Nome</string>
+    <string name="title">Título</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="save">Salvar</string>
+    <string name="login">Entrar</string>
+    <string name="exit">Sair</string>
+    <string name="add">Adicionar</string>
+    <string name="register">Cadastro</string>
+    <string name="to_register">Cadastrar</string>
+    <string name="reopen">Reabrir</string>
+    <string name="opened">Abertas</string>
+    <string name="close">Fechar</string>
+    <string name="finalized">Finalizadas</string>
+    <string name="profile">Perfil</string>
+    <string name="details">Detalhes</string>
+    <string name="author">Autor</string>
+
+    <string name="short_description">Breve descrição</string>
+    <string name="full_description">Descrição completa</string>
+
+    <string name="exit_session">Encerrar sessão</string>
+    <string name="enter_name">Informe o nome</string>
+    <string name="enter_email">Informe o email</string>
+    <string name="enter_password">Informe a senha</string>
+    <string name="invalid_password">Senha inválida</string>
+    <string name="enter_valid_email">Informe um email válido</string>
+    <string name="email_already_registeredl">Este email já está cadastrado</string>
+    <string name="user_does_not_register">Usuário não cadastrado</string>
+
+    <string name="saved_note">Pauta salva!</string>
+    <string name="new_register">Não tem cadastro?</string>
+    <string name="forgot_password">Esqueci minha senha</string>
+    <string name="sign_up_here">Entre aqui</string>
+</resources>
